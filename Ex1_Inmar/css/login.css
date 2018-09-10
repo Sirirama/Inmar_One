@@ -12,6 +12,10 @@
     cursor: default;
 }
 
+.alertCustom {
+    margin-top: 10px;
+    text-align: center;
+}
 /*
  * Card component
  */
